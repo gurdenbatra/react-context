@@ -1,4 +1,4 @@
-# app-name
+# react-context
 
 This is a sample Grommet application for reference.
 
